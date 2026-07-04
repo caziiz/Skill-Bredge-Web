@@ -1,6 +1,6 @@
 import { useState, useContext } from "react";
 import { useNavigate } from "react-router-dom";
-import { courses } from "../assets/data/Courses";
+import { courses } from "../assets/data/courses";
 import { UserContex } from "../App";
 
 function Courses() {

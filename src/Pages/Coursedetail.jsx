@@ -1,6 +1,6 @@
 import { useParams, useNavigate } from "react-router-dom";
 import { useContext } from "react";
-import { courses } from "../assets/data/Courses";
+import { courses } from "../assets/data/courses";
 import { UserContex } from "../App";
 
 function Coursedetail() {
