@@ -2,7 +2,7 @@ import { useState, useEffect, createContext, useContext } from "react";
 import { Routes, Route, Navigate, Outlet, useLocation } from "react-router-dom";
 
 import Courses from "./Pages/Courses";
-import Dashboard from "./pages/Dashboard";
+import Dashboard from "./Pages/Dashboard";
 import Navbar from "./Combonents/Navbar";
 import Tasks from "./Pages/Task";
 import Login from "./Pages/Login";
