@@ -56,14 +56,9 @@ SkillBridge is designed to provide a seamless learning experience through an int
 - React.js
 - Vite
 - JavaScript (ES6+)
-- CSS3
+- TailwandCss
+- ReactRouter
 
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- PostgreSQL
 
 ### Authentication
 - JWT (JSON Web Tokens)
@@ -82,17 +77,8 @@ SkillBridge/
 │   │   ├── assets/
 │   │   ├── components/
 │   │   ├── pages/
-│   │   ├── context/
-│   │   ├── services/
 │   │   └── App.jsx
 │
-├── server/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── database/
-│   └── server.js
 │
 ├── package.json
 └── README.md
@@ -105,7 +91,7 @@ SkillBridge/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SkillBridge.git
+git clone https://github.com/caziiz/Skill-Bredge-Web.git
 ```
 
 ### Navigate to the project
@@ -150,18 +136,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots here after deployment.
-
-- Home Page
-- Login
-- Dashboard
-- Courses
-- Course Details
-- Tasks Page
-
----
 
 ## 💡 Future Improvements
 
@@ -170,8 +145,6 @@ Add screenshots here after deployment.
 - Quizzes and assessments
 - Certificates of completion
 - Email notifications
-- Dark mode
-- Search and filtering
 - User profile customization
 - Admin dashboard
 - Instructor panel
