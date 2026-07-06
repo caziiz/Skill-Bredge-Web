@@ -71,7 +71,7 @@ export default function TaskManagerPage() {
           All
         </button>
         <button
-          className={`filter ${filter === "completed" ? "active" : ""}`}
+          className= {`filter ${filter === "completed" ? "active" : ""}`}
           onClick={() => setFilter("completed")}
         >
           Completed
